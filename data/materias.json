@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Matemáticas",
+        "codigo": "MAT101",
+        "profeAsig": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Física",
+        "codigo": "FIS102",
+        "profeAsig": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Historia",
+        "codigo": "HIS103",
+        "profeAsig": 2
+    },
+    {
+        "id": 4,
+        "nombre": "Lengua y Literatura",
+        "codigo": "LEN104",
+        "profeAsig": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Progrmacion",
+        "codigo": "PRO107",
+        "profeAsig": 3
+    },
+    {
+        "id": 8,
+        "nombre": "Base de Datos",
+        "codigo": "BAS108",
+        "profeAsig": 3
+    }
+]

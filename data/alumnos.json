@@ -1,0 +1,33 @@
+[
+  {
+    "dni": 1,
+    "nombre": "Victoria",
+    "apellido": "Pérez",
+    "edad": 16,
+    "enabled": false
+  },
+  {
+    "dni": 1,
+    "nombre": "José",
+    "apellido": "Rodríguez",
+    "edad": 17
+  },
+  {
+    "dni": 3,
+    "nombre": "Lucía",
+    "apellido": "García",
+    "edad": 16
+  },
+  {
+    "dni": 4,
+    "nombre": "Santi",
+    "apellido": "Vargas",
+    "edad": "18"
+  },
+  {
+    "dni": 1,
+    "nombre": "Luis",
+    "apellido": "Miguel",
+    "edad": 19
+  }
+]
